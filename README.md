@@ -53,12 +53,15 @@ The following files are present inside datasets folder:
 1      Adjusted R-Squared Value     0.82800            0.79560
 2      RMSE                         0.09196            0.09576
 
+
 ## Technologies Used
-- Python - version 3.8.8
-- Numpy - version 1.20.1
-- Pandas - version 1.2.4
-- Matplotlib - version 3.3.4
-- Seaborn - version 0.11.1
-- sklearn - version 0.24.1
-- statsmodels - version 0.12.2.
+- Python - version 3.12.4
+- Numpy - version 1.26.4 
+- Pandas - version 2.2.2
+- Matplotlib - version 3.9.0
+- Seaborn - version 0.13.2
+- sklearn - version 1.16.0
+- statsmodels - version 0.14.2.
+![image](https://github.com/shashiss621/BoomBike-Sharing-Assigment/assets/173294316/2b909e72-43fd-4ccd-a9c1-caea53fb785e)
+
 ![image](https://github.com/shashiss621/BoomBike-Sharing-Assigment/assets/173294316/adadd3ee-a4ef-4020-aff3-0ec8f3be5b5a)
